@@ -14,7 +14,7 @@ So, after reloading the world, we can use gnembon's [carpet mod](https://github.
 
 ![2020-04-21_18-04](/images/2020-04-21_18-04.png)
 
-Now, we can take out time in clearing out the water by filling that region with air using the `/fill`command:
+Now, we can take our time in clearing out the water by filling that region with air using the `/fill`command:
 
 ![2020-04-21_18-09](/images/2020-04-21_18-09.png)
 
